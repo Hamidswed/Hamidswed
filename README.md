@@ -14,3 +14,6 @@ My name is Hamidreza Delshad, a passionate junior full stack developer and a fre
 
 ### Contact me :sunglasses:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-delshad/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.Instagram.com/hrddesigner) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamidrdelshad) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0046735883889) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/914509816322490398)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidswed)](https://github.com/Hamidswed/github-readme-stats)
