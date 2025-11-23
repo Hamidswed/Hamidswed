@@ -1,6 +1,6 @@
 ![github-back](https://user-images.githubusercontent.com/98917600/216811101-67d4fa7c-9f1e-45e0-ba4c-c1105fa17101.png)
 ### Hi there! :wave:
-My name is Hamidreza Delshad, a passionate junior full stack developer and a freelance graphic designer from Sweden. My passion for software is coming up with concepts and turning them into beautiful interfaces. When I develop something, I pay close attention to the user experience, architecture, and code quality.
+My name is Hamidreza Delshad, a passionate mern stack developer and a freelance graphic designer. My passion for software is coming up with concepts and turning them into beautiful interfaces. When I develop something, I pay close attention to the user experience, architecture, and code quality.
 
 - :sunglasses: I have completed my full-time bootcamp to become a full stack developer at [Integrify Academy](https://integrify.academy/international).
 - :mag_right: I'm looking for a job position as a frontend/ full stack developer.
